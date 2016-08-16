@@ -14,7 +14,7 @@
 </php>
 
 {:sp_get_menu("main",$effected_id,$filetpl,$foldertpl,$ul_class,$li_class,$style,$showlevel,$dropdown)}
-```
+```如果要加副导航需将“main”处换成数据 nav_cat表中的 分类ID即可。
 
 ```html
 <!--生成的代码如下：-->
